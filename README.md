@@ -12,13 +12,15 @@
 
 <div id="lists" align="left">
 <ul type="disc">
-  <li>🐍: Пишу на Python, стираю на нем же</li>
+  <li>🐍 Пишу на Python, стираю на нем же</li>
   <li>📦 Знаю Django, DjangoRestFramework, Flask и таблицу умножения</li>
   <li>🔗 Коннекчусь к SQLite, MySQL, MongoDB, PostgreSQL</li>
+  <li>🐼 Работаю с Pandas Dataframe и Excel</li>
   <li> ☁️ Владею Git, коммичу и пушу в github</li>
   <li>🐳 Могу развернуть проект из Docker, свернуть не могу</li>
   <li>🤖 Творю ботов через pyTelegramBotAPI</li>
   <li>✅ Дружу с любым API, если есть дока и интерес</li>
+  <li>🔎 Умею гуглить все, что не знаю</li>
 </ul>
 
   </div>  
