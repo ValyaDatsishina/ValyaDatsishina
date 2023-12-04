@@ -13,7 +13,7 @@
 <div id="lists" align="left">
 <ul type="disc">
   <li>🐍 Пишу на Python, стираю на нем же</li>
-  <li>📦 Знаю Django, DjangoRestFramework, Flask и таблицу умножения</li>
+  <li>📦 Знаю Django, DjangoRestFramework и таблицу умножения</li>
   <li>🔗 Коннекчусь к SQLite, MySQL, MongoDB, PostgreSQL</li>
   <li>🐼 Работаю с Pandas Dataframe и Excel</li>
   <li> ☁️ Владею Git, коммичу и пушу в github</li>
